@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tetris
 {
-    internal class GameRule
+     class GameRule
     {
         internal const int B_WIDTH = 30;
         internal const int B_HEIGHT = 30;

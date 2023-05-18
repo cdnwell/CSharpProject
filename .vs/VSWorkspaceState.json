@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Tetris",
+    "\\Tetris\\Tetris"
   ],
+  "SelectedNode": "\\Tetris\\Tetris\\GameRule.cs",
   "PreviewInSolutionExplorer": false
 }

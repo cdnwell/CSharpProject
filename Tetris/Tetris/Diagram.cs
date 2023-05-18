@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Tetris
 {
-    internal class Diagram
+     class Diagram
     {
         internal int X
         {
