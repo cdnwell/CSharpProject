@@ -35,7 +35,7 @@ namespace Tetris
 
         Game()
         {
-
+            now = new Diagram();
         }
         #endregion
 
@@ -58,8 +58,6 @@ namespace Tetris
             }
             return false;
         }
-
-        
 
         internal bool MoveDown()
         {
