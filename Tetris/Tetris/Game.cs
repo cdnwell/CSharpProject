@@ -53,7 +53,7 @@ namespace Tetris
         {
             if((now.X+1) < GameRule.BX)
             {
-                now.MoveLeft();
+                now.MoveRight();
                 return true;
             }
             return false;
