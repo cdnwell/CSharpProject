@@ -131,7 +131,7 @@ namespace Tetris
 
         private void MoveTurn()
         {
-            throw new NotImplementedException();
+            
         }
     }
 }
